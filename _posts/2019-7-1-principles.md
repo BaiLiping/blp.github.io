@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Principles
+tags: thoughts
 ---
 
 ##### Health:

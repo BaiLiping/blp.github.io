@@ -26,10 +26,6 @@ navbar-links:
     - Algs: "Algs"
     - TD: "TD"
     - Research Proposal: "ResearchProposal"
-    - Discrete Time Black Scholes: "black"
-    - The QLBS model for a European option: "QLBS"
-    - Fitted Q-iteration: "flat"
-    - Econometric estimation of an IRL-based market portfolio model: "IRL"
     - Python: "Python"
 
 

@@ -25,6 +25,7 @@ navbar-links:
     - Fundamentals: "Fundamentals"
     - Algs: "Algs"
     - TD: "TD"
+    - Q SARSA: "QandSARSA"
     - Research Proposal: "ResearchProposal"
     - Python: "Python"
 

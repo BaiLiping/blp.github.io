@@ -14,10 +14,10 @@ author: BLP
 navbar-links:
   Engineering:
     - Phased Array: "pa"
+    - Wireless Power Transfer: "WPT"
     - Design: "design"
     - EM: "EM"
   Record:
-    - Wireless Power Transfer: "WPT"
     - MOOC: "MOOC"
     - WORK: "Work"
 

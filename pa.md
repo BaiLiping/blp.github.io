@@ -3,6 +3,7 @@ layout: page
 title: Phased Array Apparatus
 ---
 
+<embed src="/assets/docs/Edx/Coursera1.pdf" type="application/pdf" width="100%" height=600>
 
 #### Hardware
 

@@ -1,26 +1,9 @@
+---
+layout: page
+title: Dyna Q
+---
 
-# Assignment: Dyna-Q and Dyna-Q+
 
-Welcome to this programming assignment! In this notebook, you will:
-1. implement the Dyna-Q and Dyna-Q+ algorithms. 
-2. compare their performance on an environment which changes to become 'better' than it was before, that is, the task becomes easier. 
-
-We will give you the environment and infrastructure to run the experiment and visualize the performance. The assignment will be graded automatically by comparing the behavior of your agent to our implementations of the algorithms. The random seed will be set explicitly to avoid different behaviors due to randomness. 
-
-Please go through the cells in order. 
-
-## The Shortcut Maze Environment
-
-In this maze environment, the goal is to reach the goal state (G) as fast as possible from the starting state (S). There are four actions – up, down, right, left – which take the agent deterministically from a state to the corresponding neighboring states, except when movement is blocked by a wall (denoted by grey) or the edge of the maze, in which case the agent remains where it is. The reward is +1 on reaching the goal state, 0 otherwise. On reaching the goal state G, the agent returns to the start state S to being a new episode. This is a discounted, episodic task with $\gamma = 0.95$.
-
-Later in the assignment, we will use a variant of this maze in which a 'shortcut' opens up after a certain number of timesteps. We will test if the the Dyna-Q and Dyna-Q+ agents are able to find the newly-opened shorter route to the goal state.
-
-## Packages
-
-We import the following libraries that are required for this assignment. Primarily, we shall be using the following libraries:
-1. numpy: the fundamental package for scientific computing with Python.
-2. matplotlib: the library for plotting graphs in Python.
-3. RL-Glue: the library for reinforcement learning experiments.
 
 **Please do not import other libraries** — this will break the autograder.
 

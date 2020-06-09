@@ -11,19 +11,9 @@ For instance, I read that in a mastectomy the surgeon discovered that the cancer
 what are the hallmarks of thorough thinkers?
 1. **Secondary, Tertiary Consequences**. should they be chess player, they are those who look gazillion steps ahead and then backtrack to compute the optimal step for now.
 2. **Risk Mitigation**. have you ever met morons who would just jump into actions regardless of the potential downside?
-3. tentative. There are those who think they know it all, and speak absolutely. There are those who allows the possibility that their vantage point might be limited and speak in a tentative manner. Also I don't think they are rigid. Sometimes the circumstances constrain the best outcome to be at a higher dimension, i.e. it might not be the optimal solution if you just look at it from one angle. Thorough thinkers are those can can pick up optimal point at high dimensions.
-4. leap. if there is a method for one to go deep into a problem, most people can get there eventuality then there are those who take the leap. They dare to look into places that is not suggestive of an answer. 
+3. **tentative**. There are those who think they know it all, and speak absolutely. There are those who allows the possibility that their vantage point might be limited and speak in a tentative manner. Also I don't think they are rigid. Sometimes the circumstances constrain the best outcome to be at a higher dimension, i.e. it might not be the optimal solution if you just look at it from one angle. Thorough thinkers are those can can pick up optimal point at high dimensions.
+4. **leap**. if there is a method for one to go deep into a problem, most people can get there eventuality then there are those who take the leap. They dare to look into places that is not suggestive of an answer. 
 5. not just a parrot. sometimes I can feel a woodiness in people's talk, almost like the experience is not his own, but he know that this is what if suppose to feel like. but there are other who speak in a synnesthesic way. For instance: it is illegal to compute a certain way(comparing math structures to legal systems); to depict an object with this defintiion( comparing math to painting); black-belt of mind. They speak in a particular way, dynamic, as if they are painting to you the animation they have in their minds.
-
-There is almost a design aspect to their thinking. They anticipate how certian things would be used or progress and then design accordingly. What are some of the examples of design I've encountered in real life?
-
-1. I had to live in my parents place for a year. It was a small room, people above me and next to me are fucking all the time. It would be great if the achitect designed with people's privacy in mind and sort of alternate between floors and units. It could easily be done, for instance, one units bedroom could be facing the living rooms of the adjacent units. Those architect who can incorporate temporal multiplex into their design are great ones. How the sun would change through time, the ventalation, the differnet functions of the room etc. 
-
-2. Hospital layout. This is something that need even more consideration. Infectious patient, emergency patient, chronical patient with some serious physical constriants. How the pressure of a room can affect air flow and the virus etc.
-
-3. Sports Arena design. How many functional units are there to make a events and how to arrange each function accordingly in a spacially contraint fashion. 
-
-4. Etiquette. I think at its core, etiquette stands for being considerate and incorporate those considerations into action. For instance, handling your spoon in one direction when drinking soup incase someone else is interested in tasting it. Try not to scratch your utential with the containers in case people would be sensative to the high-pitched sound. After you are done, put your utential a certain direction in case people walking around would inadvertantly hit it. etc.
 
 
 If we categorize thinking into various levels, there seems to be few dimentions we can differentiate one from another:

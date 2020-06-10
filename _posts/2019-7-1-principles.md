@@ -41,3 +41,7 @@ tags: thoughts
 1. Conservatism but leave room for change.
 2. 'This is water' is basically Chinese philosophy stated by a white dude. Truth are those that cut through time and culture, maybe under different presentation formats.
 3. When perfection is obtainable, go for it. If not, bootstrap is just as good.
+
+##### Techniques:
+
+1. 

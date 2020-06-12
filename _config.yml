@@ -27,6 +27,7 @@ navbar-links:
     - TD: "TD"
     - Q SARSA: "QandSARSA"
     - Dyna Q: "DynaQ"
+    - Multi Agent: "Multi"
     - Research Proposal: "ResearchProposal"
     - Python: "Python"
 

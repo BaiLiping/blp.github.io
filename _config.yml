@@ -17,7 +17,7 @@ navbar-links:
     - Wireless Power Transfer: "WPT"
     - Design: "design"
     - EM: "EM"
-  CS:
+  Computer Science:
     - Python: "Python"
     - Linux: "Linux"
     - Docker: "Docker"

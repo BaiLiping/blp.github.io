@@ -1,7 +1,13 @@
 ---
 layout: page
-title: Resources
+title: Cloud
 ---
+URL: https://www.matpool.com
+price: 3RMB/hour
+GPU: GeForce RTX 2080 Ti
 
-[RLPYT0](https://rlpyt.readthedocs.io/)
-a set of RL Agents written in PyTorch
+import torch
+torch.cuda.current_device()
+tourch.cuda.device_count()
+tourch.cuda.get_device_name(0)
+

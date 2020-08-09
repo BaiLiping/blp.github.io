@@ -17,10 +17,15 @@ navbar-links:
     - Wireless Power Transfer: "WPT"
     - Design: "design"
     - EM: "EM"
+  CS:
+    - Python: "Python"
+    - Linux: "Linux"
+    - Docker: "Docker"
+    - Cloud: "Cloud"
+    - Resources: "Resources"
   Record:
     - MOOC: "MOOC"
     - WORK: "Work"
-
   Reinforcement Learning:
     - Fundamentals: "Fundamentals"
     - Algs: "Algs"
@@ -29,9 +34,6 @@ navbar-links:
     - Dyna Q: "DynaQ"
     - Multi Agent: "Multi"
     - Research Proposal: "ResearchProposal"
-    - Python: "Python"
-    - Linux: "Linux"
-    - Resources: "Resources"
 
 
     

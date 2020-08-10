@@ -13,6 +13,7 @@ author: BLP
 
 navbar-links:
   Engineering:
+    - Control: "Control"
     - Phased Array: "pa"
     - Wireless Power Transfer: "WPT"
     - Design: "design"

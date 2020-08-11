@@ -14,6 +14,7 @@ author: BLP
 navbar-links:
   Engineering:
     - Control: "Control"
+    - Stochastic Control: "Stochastic"
     - Phased Array: "pa"
     - Wireless Power Transfer: "WPT"
     - Design: "design"
@@ -37,7 +38,7 @@ navbar-links:
     - Research Proposal: "ResearchProposal"
 
 
-    
+
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #

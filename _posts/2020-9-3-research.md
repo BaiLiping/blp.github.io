@@ -14,4 +14,4 @@ There are few things I can infer from this observation. There must be a differen
 
 Second, the ability to implement is not the most important thing institutions are looking for. Apparently, when you are 18,19, you can't implement on that much. Also, quite a lot of those people changed their field of study. I think what they are looking for is proven brain power. The clever bits that than derive more out of what other could have, the ability to figure things out. How to think, how to solve problems, how to tackle puzzles.
 
-Can that ability be scribed somehow such that it can be accessbile to more people? what it feels like to be able to see and analyze the structures hidden from an untrained eyes.
+Can that ability be scribes somehow such that it can be accessible to more people? what it feels like to be able to see and analyze the structures hidden from an untrained eyes?

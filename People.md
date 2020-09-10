@@ -10,3 +10,7 @@ People who works on incorporating rl with control:
 5. Francesco Borrelli [lab](http://www.mpc.berkeley.edu/home) infuse model predictive control with RL
 6. [L4DC](https://www.youtube.com/playlist?list=PLYx2nCJDi_QFrGOmIM0ale8T_1Fqu8OIF)
 7. [Intersection between Control Learning and Optimization](https://www.youtube.com/playlist?list=PLYx2nCJDi_QFrGOmIM0ale8T_1Fqu8OIF)
+8. [ADSI Summer Workshop](https://www.youtube.com/playlist?list=PLTPQEx-31JXjg12xEI-9FctFLqrD4qMNY)
+9. [Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2020/)
+10. [11-785](https://deeplearning.cs.cmu.edu/F20/index.html)
+11. [CS480](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html)

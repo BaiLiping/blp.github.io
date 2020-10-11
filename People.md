@@ -14,3 +14,5 @@ People who works on incorporating rl with control:
 9. [Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2020/)
 10. [11-785](https://deeplearning.cs.cmu.edu/F20/index.html)
 11. [CS480](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html)
+12. [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/) He is knowm for his works on Neural ODE and Latent SDE
+13. [Nathan Kutz](http://www.databookuw.com/) Data-drivern Sceince and Engineering. 

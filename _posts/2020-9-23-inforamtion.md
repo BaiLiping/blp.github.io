@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flu Vaccine 
+title: Get the Information and Think for Oneself 
 subtitle: 
-tags: 
+tags: record 
 image: 
 show-avatar: false
 social-share: false
@@ -18,9 +18,6 @@ Apparently, flu vaccine is only recommended for the very young and very old here
 
 This brings me back to when Fauci was asked how didn't him recommend mask wearing sooner, he said that they had to take into consideration the lack of supply of PPE have prioritize the healthcare professionals. 
 
-
 There was once I was invited to Belgium by Bayer, on the plane I talked to the person in charge of Bayer's diabetic product in China. Her main difficulty is how to get the information to people who actually need it. There are the group who readily accept the knowledge of diabetic management and there are those who just seems impervious regardless of authority or method of the information. Those are the group who lives in their own world and trust their own experience only. 
 
-I think it is going to be very important going forward to think about what are the reasoning behind official recommendations and official information. One really need to cooborate information from multiple channels nowadays, instead of just take everything at face value. 
-
-This really is a rather shocking experience for me. 
+I think it is going to be very important going forward to think about what are the reasoning behind official recommendations and official information. One really need to cooborate information from multiple channels nowadays, instead of just take everything at face value. Maybe every information made available to the mass has hidden agenda. One should see through the ploy and figure out what is omitted and what is real. Think for oneself instead of hoping that the authority would be thinking on your behalf. 

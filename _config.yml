@@ -29,7 +29,9 @@ navbar-links:
     - MOOC: "MOOC"
     - WORK: "Work"
     - Music: "Music"
-    - Principles: "Principle"
+    - Principle: "Principle"
+    - Moment: "Moment"
+    - People: "People1"
   Reinforcement Learning:
     - Fundamentals: "Fundamentals"
     - Algs: "Algs"

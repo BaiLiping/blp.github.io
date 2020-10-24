@@ -13,27 +13,29 @@ title: Principles
 
 ##### Finance:
 
-1. Hedging
+1. Aware/Avoidance/Hedging
 2. Phase Shift
 3. Buy Commercial Retirement Plan and Insurance Plan
 
 ##### Social:
 
-1. Leave room for the possibility that you are wrong. What you can see is just a small portion of the world.
+1. Leave room for the possibility that you are wrong. Things are dynamic and what you can see is just a small fraction of the reality.
 2. At the end of the day, "JIA JIAO" is what matters.
-3. Shut up.
-4. Know how to protect your rights, but try you best not to go there. It is a lose lose.
+3. Shut up on things you don't know.
+4. Strike a Balance.
 
 ##### Learning:
 
 1. Decompose a complicated system
+2. Iterative Improvement/Bootstrap Vs. Hole in One
+3. Go afterh things that is universal/applicable in other circumstances.
 
 ##### Heuristics/Thinking:
 
-1. Go with choices that give you the most options.
+1. Go with choices that give you the most options/max entropy.
 2. When no enough information is there to compute expected return, decide based on the downside. (most people can only see the upside)
 3. Secondary/Tertiary Consequences.
-4. Always leave room for things you can't see.  
+4. Always leave room for things/rationle you can't see.  
 
 ##### Ideology:
 
@@ -44,5 +46,4 @@ title: Principles
 ##### Techniques:
 
 1. Ways to handle risk: Prevention/Avoidance; Transfer; Alleviate; Pooling; Hedging; Shouldering
-
 2. Reasoning: false premise; boundary of a logic; dynamic/hidden

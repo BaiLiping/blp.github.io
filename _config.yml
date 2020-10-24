@@ -28,9 +28,8 @@ navbar-links:
   Record:
     - MOOC: "MOOC"
     - WORK: "Work"
-    - Me As Human:
-      - Music: "Music"
-      - Principles: "Principle"
+    - Music: "Music"
+    - Principles: "Principle"
   Reinforcement Learning:
     - Fundamentals: "Fundamentals"
     - Algs: "Algs"

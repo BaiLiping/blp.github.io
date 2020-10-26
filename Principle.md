@@ -23,6 +23,8 @@ title: Principles
 2. At the end of the day, "JIA JIAO" is what matters.
 3. Shut up on things you don't know.
 4. Strike a Balance.
+5. Only speaks about the good side, although you should be aware of the downside, be perceived as a Pollyanna but in reality be Cathandra.
+6. Predictability is something can be taken advantage of.  
 
 ##### Learning:
 

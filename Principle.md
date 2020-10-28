@@ -49,3 +49,4 @@ title: Principles
 
 1. Ways to handle risk: Prevention/Avoidance; Transfer; Alleviate; Pooling; Hedging; Shouldering
 2. Reasoning: false premise; boundary of a logic; dynamic/hidden
+3. Ferminization: what must happen to lead up to the desired final outcome.

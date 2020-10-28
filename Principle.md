@@ -14,8 +14,9 @@ title: Principles
 ##### Finance:
 
 1. Aware/Avoidance/Hedging
-2. Phase Shift
-3. Buy Commercial Retirement Plan and Insurance Plan
+2. lock-in structural imbalance
+3. Phase Shift
+4. Buy Commercial Retirement Plan and Insurance Plan
 
 ##### Social:
 

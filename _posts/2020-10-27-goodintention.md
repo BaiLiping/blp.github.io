@@ -14,4 +14,6 @@ comments: true
 
 I think multileving thinking is required for striking a balance. Any logic/methodology taking too far would result in foolness. The key is to recognize when this line of thinking has stopped being effective and switch to anther angle of observation. For instance, while the data is not yet there, can I make a decision not so much on data, which is of course the first choice, but on risk analysis. If there are things that I can do that provide upsides with limited or manageable downsides, why not? If I have to spend loads of energy on drawing a line on the sads when the wind is blowing hard, maybe the best approach is to move on.
 
+People debating which mode of decision making is the best, maybe they just have different pros and cons on different circumstances. The best approach would be having them all in the aseno and recognize when would be best to deploy them.
+
 

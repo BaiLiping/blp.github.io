@@ -21,7 +21,7 @@ I read somewhere that people are only alive in other's brain. So feel like writi
 
 8. *my painter cousin*. For a long long time, I know that something doesn't quite add up to me. Life as a office worker just doesn't cut it for me, yet can't quite see the path for any other occupations. Then comes my painter cousin who I have not spoken to for decades. His studio is at the outskirt and apparently he is famous. There is an interesting sense of familiarity. I know him, dispite that we never speak. The struggles he described are mine as well. It was at that point, I have a piece of mind, holy crapy, it is possible to go through life not as an office worker. By the way, I think I make an excellent researcher. Tu Hongtao, if you ever read this, please fund me:)
 
-9. *Driver Who Did Not Horn*. People who drive scooters would horn my ass off should I stand in their way, even when I am in the pedestrian lane, yet, occasionally, there are those drivers who would not even horn in central Beijing. I wonder, which is cause which is effect? Do people have a personality to abuse however tiny bits of power they have would end up driving scooters by design?
+9. *Driver Who Did Not Horn*. People who drive scooters would horn my ass off should I stand in their way, even when I am in the pedestrian lane, yet, occasionally, there are those drivers who would not even horn in central Beijing. I wonder, which is cause which is effect? Do people have a personality to abuse however tiny bits of power they have would end up driving scooters by design? Or because people who drive nice cars in central Beijing can afford a more relaxed attitude towards life?
 
 ![1](/assets/img/Moment/1.png)
 ![1](/assets/img/Moment/2.png)

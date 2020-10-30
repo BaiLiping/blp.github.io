@@ -8,14 +8,3 @@ There are moments in my life which is more memorable than the others. I'd like t
 2. **Mankiw's Macroeconomics**, before going to Singapore, I thought that knowledge has to be passed through by the teachers. Yet when I read Mankiw's books, I have this confidence that I have it. It was the first time I experienced that confidence, and it came many times in the later days.
 3. **Addicted to Gaming**, it is a rather perculiar feeling, like time does not exist. I literaly sit there unmoved for over 10hs. Amazing. At least I know that I have that level of focus and concentration, now it is just a matter of how to tap into it.
 4. **Calmness after Cans of Beers**, my default mental state seems to be anxiety ridden. Yet, after cans of beers I can experience a calmness that is foreign to me. Should figure out a way to access that state without beers.
-5. **test**
-
-
-![1](/assets/img/Moment/1.png)
-![1](/assets/img/Moment/2.png)
-![1](/assets/img/Moment/3.png)
-![1](/assets/img/Moment/4.png)
-![1](/assets/img/Moment/5.png)
-![1](/assets/img/Moment/6.png)
-![1](/assets/img/Moment/7.png)
-![1](/assets/img/Moment/8.png)

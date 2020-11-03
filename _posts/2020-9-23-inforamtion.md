@@ -35,3 +35,19 @@ Should I be in the position of with zero medical knowledge, how would I make the
 This experience also highlight to me the danger of information that comes to me in pieces. When there isn't a spectrum and structure to put the piece of information in place, the magnitude of one observation can be exaggerated. I begin to understand why people who are overly exposed to news report can only dwell in the basement. Being alive involves taking risks. While it is foolish to jump into things before knowing the risk factors, being scared by everything is also no way to live. The best approach is to be fulling aware of the downside possibility, if it is truly unavoidable, then try to figure out a way to mitigate it. For instance, before inject the flu vaccine, make sure you are covered by insurance. It would even be better if there is a financial product that I can bet with the third party specifically for this event. Given that flu vaccine induced severe side effect is in the order of 1 in a million, should I be that person, I would hope that I can make a fortune out of it.
 
 Actually, that might be a good way to encourage people to inject flu vaccine. Yet, that one in a million chance is there, so sell a flu vaccine betting instrument alongside the flu vaccine. If your genetic make up makes you that one in a million, a 10RMB purchase can become 10 million, which would cover the fee associated with the treatment and then some.
+
+
+-------------------THE FOLLOWING IS WRITTERN LATER STILL
+I actually agree with some of the observations poited out by the authors of POOR ECONOMICS
+![1](/assets/img/poor1.jpg)
+![2](/assets/img/poor2.jpg)
+![3](/assets/img/poor1.jpg)
+
+Feynman probably embodies the best mode of thinking to me. There are few things:
+1. When deciding on what problems to work on, he think along two angles: what are the problems that he wants to solve, two, what are the problems he have to tools to solve. 
+2. He thinked through the offer of a higher pay, and he felt that he would probably spend that money on pretty girls, which would be a distration to physics, so he went against that offer.
+3. He find out that he actually drink when he was on his own, and he felt this would hinder his ability to do physics in the long run so he decided never drink on his oen again.
+
+Also that paper from the Chinese mathematician of how he think through everything before act. Basically that is the best mode of thinking. 
+
+Point being, if you find yourself in an unfavorable situation, don't complain about the society. Even if it is true, that you are suppressed systematically, what is the use of whining? The first step for changing that circumstance comes of change your mode of thinking. Maybe you are trapped by your thinking. Get the best information, and see if there is a path to take  you out. 

@@ -2,7 +2,7 @@
 layout: post
 title: Minimizing KL Divergence as a Form of Conservatism 
 subtitle: At the Boundary between The Old Distribution and The New Distribution
-tags: thoughts
+tags: rl 
 image: 
 show-avatar: false
 social-share: false

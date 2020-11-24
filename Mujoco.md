@@ -1,12 +1,6 @@
 ---
-layout: post
-title: Mujoco
-subtitle: How to Interact with Mujoco Environment
-tags: rl
-image:
-show-avatar: false
-social-share: false
-comments: true
+layout: page
+title: Python
 ---
 Use Hopper as an example
 

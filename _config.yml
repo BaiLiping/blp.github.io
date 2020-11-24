@@ -35,6 +35,7 @@ navbar-links:
     - Ideas: "Ideas"
   Reinforcement Learning:
     - Fundamentals: "Fundamentals"
+    - Mujoco: "Mujoco"
     - Algs: "Algs"
     - TD: "TD"
     - Q SARSA: "QandSARSA"

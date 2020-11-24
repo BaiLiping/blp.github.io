@@ -376,6 +376,7 @@ Actions:
     0     Thigh Joint Motor                             -1             1
     1     Leg Joint Motor                               -1             1
     2     Foot Joint Motor                              -1             1
-    3     Thigh Left Joint Motor                             -1             1
-    4     Leg Left Joint Motor                               -1             1
-    5     Foot Left Joint Motor                              -1             1
+    3     Thigh Left Joint Motor                        -1             1
+    4     Leg Left Joint Motor                          -1             1
+    5     Foot Left Joint Motor                         -1             1
+```

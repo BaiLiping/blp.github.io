@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mujoco Environment 
+title: Mujoco Environment
 ---
-Use Hopper as an example
+Use Hopper and Walker2d as an examples to show the process of figuring out the lay of the land when it comes to Mujoco environment
 
 xml file for hopper
 ```
@@ -240,3 +240,142 @@ Actions:
 
 
 ```
+
+xml file for Walker2d:
+```
+NAME OF THE KEY JOINTS:
+'rootx', 'rootz', 'rooty', 'thigh_joint', 'leg_joint', 'foot_joint', 'thigh_left_joint', 'leg_left_joint', 'foot_left_joint'
+
+<mujoco model="walker2d">
+  <compiler angle="degree" coordinate="global" inertiafromgeom="true"/>
+  <default>
+    <joint armature="0.01" damping=".1" limited="true"/>
+    <geom conaffinity="0" condim="3" contype="1" density="1000" friction=".7 .1 .1" rgba="0.8 0.6 .4 1"/>
+  </default>
+  <option integrator="RK4" timestep="0.002"/>
+  <worldbody>
+    <light cutoff="100" diffuse="1 1 1" dir="-0 0 -1.3" directional="true" exponent="1" pos="0 0 1.3" specular=".1 .1 .1"/>
+    <geom conaffinity="1" condim="3" name="floor" pos="0 0 0" rgba="0.8 0.9 0.8 1" size="40 40 40" type="plane" material="MatPlane"/>
+    <body name="torso" pos="0 0 1.25">
+      <camera name="track" mode="trackcom" pos="0 -3 1" xyaxes="1 0 0 0 0 1"/>
+      <joint armature="0" axis="1 0 0" damping="0" limited="false" name="rootx" pos="0 0 0" stiffness="0" type="slide"/>
+      <joint armature="0" axis="0 0 1" damping="0" limited="false" name="rootz" pos="0 0 0" ref="1.25" stiffness="0" type="slide"/>
+      <joint armature="0" axis="0 1 0" damping="0" limited="false" name="rooty" pos="0 0 1.25" stiffness="0" type="hinge"/>
+      <geom friction="0.9" fromto="0 0 1.45 0 0 1.05" name="torso_geom" size="0.05" type="capsule"/>
+      <body name="thigh" pos="0 0 1.05">
+        <joint axis="0 -1 0" name="thigh_joint" pos="0 0 1.05" range="-150 0" type="hinge"/>
+        <geom friction="0.9" fromto="0 0 1.05 0 0 0.6" name="thigh_geom" size="0.05" type="capsule"/>
+        <body name="leg" pos="0 0 0.35">
+          <joint axis="0 -1 0" name="leg_joint" pos="0 0 0.6" range="-150 0" type="hinge"/>
+          <geom friction="0.9" fromto="0 0 0.6 0 0 0.1" name="leg_geom" size="0.04" type="capsule"/>
+          <body name="foot" pos="0.2/2 0 0.1">
+            <joint axis="0 -1 0" name="foot_joint" pos="0 0 0.1" range="-45 45" type="hinge"/>
+            <geom friction="0.9" fromto="-0.0 0 0.1 0.2 0 0.1" name="foot_geom" size="0.06" type="capsule"/>
+          </body>
+        </body>
+      </body>
+      <!-- copied and then replace thigh->thigh_left, leg->leg_left, foot->foot_right -->
+      <body name="thigh_left" pos="0 0 1.05">
+        <joint axis="0 -1 0" name="thigh_left_joint" pos="0 0 1.05" range="-150 0" type="hinge"/>
+        <geom friction="0.9" fromto="0 0 1.05 0 0 0.6" name="thigh_left_geom" rgba=".7 .3 .6 1" size="0.05" type="capsule"/>
+        <body name="leg_left" pos="0 0 0.35">
+          <joint axis="0 -1 0" name="leg_left_joint" pos="0 0 0.6" range="-150 0" type="hinge"/>
+          <geom friction="0.9" fromto="0 0 0.6 0 0 0.1" name="leg_left_geom" rgba=".7 .3 .6 1" size="0.04" type="capsule"/>
+          <body name="foot_left" pos="0.2/2 0 0.1">
+            <joint axis="0 -1 0" name="foot_left_joint" pos="0 0 0.1" range="-45 45" type="hinge"/>
+            <geom friction="1.9" fromto="-0.0 0 0.1 0.2 0 0.1" name="foot_left_geom" rgba=".7 .3 .6 1" size="0.06" type="capsule"/>
+          </body>
+        </body>
+      </body>
+    </body>
+  </worldbody>
+  <actuator>
+    <!-- <motor joint="torso_joint" ctrlrange="-100.0 100.0" isctrllimited="true"/>-->
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" gear="100" joint="thigh_joint"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" gear="100" joint="leg_joint"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" gear="100" joint="foot_joint"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" gear="100" joint="thigh_left_joint"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" gear="100" joint="leg_left_joint"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" gear="100" joint="foot_left_joint"/>
+    <!-- <motor joint="finger2_rot" ctrlrange="-20.0 20.0" isctrllimited="true"/>-->
+  </actuator>
+    <asset>
+        <texture type="skybox" builtin="gradient" rgb1=".4 .5 .6" rgb2="0 0 0"
+            width="100" height="100"/>
+        <texture builtin="flat" height="1278" mark="cross" markrgb="1 1 1" name="texgeom" random="0.01" rgb1="0.8 0.6 0.4" rgb2="0.8 0.6 0.4" type="cube" width="127"/>
+        <texture builtin="checker" height="100" name="texplane" rgb1="0 0 0" rgb2="0.8 0.8 0.8" type="2d" width="100"/>
+        <material name="MatPlane" reflectance="0.5" shininess="1" specular="1" texrepeat="60 60" texture="texplane"/>
+        <material name="geom" texture="texgeom" texuniform="true"/>
+    </asset>
+</mujoco>
+```
+the gym file
+```
+class Walker2dEnv(mujoco_env.MujocoEnv, utils.EzPickle):
+
+    def __init__(self):
+        mujoco_env.MujocoEnv.__init__(self, "walker2d.xml", 4)
+        utils.EzPickle.__init__(self)
+
+    def step(self, a):
+        posbefore = self.sim.data.qpos[0]
+        self.do_simulation(a, self.frame_skip)
+        posafter, height, ang = self.sim.data.qpos[0:3]
+        alive_bonus = 1.0
+        reward = ((posafter - posbefore) / self.dt)
+        reward += alive_bonus
+        reward -= 1e-3 * np.square(a).sum()
+        done = not (height > 0.8 and height < 2.0 and
+                    ang > -1.0 and ang < 1.0)
+        ob = self._get_obs()
+        return ob, reward, done, {}
+
+    def _get_obs(self):
+        qpos = self.sim.data.qpos
+        qvel = self.sim.data.qvel
+        return np.concatenate([qpos[1:], np.clip(qvel, -10, 10)]).ravel()
+
+    def reset_model(self):
+        self.set_state(
+            self.init_qpos + self.np_random.uniform(low=-.005, high=.005, size=self.model.nq),
+            self.init_qvel + self.np_random.uniform(low=-.005, high=.005, size=self.model.nv)
+        )
+        return self._get_obs()
+
+    def viewer_setup(self):
+        self.viewer.cam.trackbodyid = 2
+        self.viewer.cam.distance = self.model.stat.extent * 0.5
+        self.viewer.cam.lookat[2] = 1.15
+        self.viewer.cam.elevation = -20
+```
+
+```
+Observation:
+
+    Num    Observation                                 Min            Max
+           rootx(_get_obs states from  root z)          Not Limited
+    0      rootz                                        Not Limited
+    1      rooty                                        Not Limited
+    2      thigh joint                                 -150           0
+    3      leg joint                                   -150           0
+    4      foot joint                                  -45            45      
+    5      thigh left joint                            -150           0
+    6      leg left joint                              -150           0
+    7      foot left joint                             -45            45
+    8      velocity of rootx                           -10            10
+    9      velocity of rootz                           -10            10
+    10     velocity of rooty                           -10            10
+    11     angular velocity of thigh joint             -10            10
+    12     angular velocity of leg joint               -10            10
+    13     angular velocity of foot joint              -10            10
+    14     angular velocity of thigh left joint        -10            10   
+    15     angular velocity of leg left joint          -10            10
+    16     angular velocity of foot left joint         -10            10
+
+Actions:
+    0     Thigh Joint Motor                             -1             1
+    1     Leg Joint Motor                               -1             1
+    2     Foot Joint Motor                              -1             1
+    3     Thigh Left Joint Motor                             -1             1
+    4     Leg Left Joint Motor                               -1             1
+    5     Foot Left Joint Motor                              -1             1

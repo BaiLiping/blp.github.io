@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python
+title: Mujoco Environment 
 ---
 Use Hopper as an example
 

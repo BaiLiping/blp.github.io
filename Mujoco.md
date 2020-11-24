@@ -2,7 +2,9 @@
 layout: page
 title: Mujoco Environment
 ---
-Use Hopper and Walker2d as an examples to show the process of figuring out the lay of the land when it comes to Mujoco environment
+
+Mujoco is a powerful simulation engine and it is used in almost all reinforcement learning tasks. However, the documentation of Mujoco is quite lacking which may result in difficulties when we try to interact with this environment. In the following sections, I try to set out the observation and action space of some well known Mujoco environments.
+
 
 xml file for hopper
 ```
@@ -348,7 +350,7 @@ class Walker2dEnv(mujoco_env.MujocoEnv, utils.EzPickle):
         self.viewer.cam.lookat[2] = 1.15
         self.viewer.cam.elevation = -20
 ```
-
+The observation and action space for Walker2d
 ```
 Observation:
 
@@ -380,3 +382,119 @@ Actions:
     4     Leg Left Joint Motor                          -1             1
     5     Foot Left Joint Motor                         -1             1
 ```
+
+the observation and action space for half-cheeta
+```
+    The state space is populated with joints in the order that they are
+    defined in this file. The actuators also operate on joints.
+    State-Space (name/joint/parameter):
+        - rootx     slider      position (m)
+        - rootz     slider      position (m)
+        - rooty     hinge       angle (rad)
+        - bthigh    hinge       angle (rad)
+        - bshin     hinge       angle (rad)
+        - bfoot     hinge       angle (rad)
+        - fthigh    hinge       angle (rad)
+        - fshin     hinge       angle (rad)
+        - ffoot     hinge       angle (rad)
+        - rootx     slider      velocity (m/s)
+        - rootz     slider      velocity (m/s)
+        - rooty     hinge       angular velocity (rad/s)
+        - bthigh    hinge       angular velocity (rad/s)
+        - bshin     hinge       angular velocity (rad/s)
+        - bfoot     hinge       angular velocity (rad/s)
+        - fthigh    hinge       angular velocity (rad/s)
+        - fshin     hinge       angular velocity (rad/s)
+        - ffoot     hinge       angular velocity (rad/s)
+    Actuators (name/actuator/parameter):
+        - bthigh    hinge       torque (N m)
+        - bshin     hinge       torque (N m)
+        - bfoot     hinge       torque (N m)
+        - fthigh    hinge       torque (N m)
+        - fshin     hinge       torque (N m)
+        - ffoot     hinge       torque (N m)
+
+
+
+
+class HalfCheetahEnv(mujoco_env.MujocoEnv, utils.EzPickle):
+    def __init__(self,
+                 xml_file='half_cheetah.xml',
+                 forward_reward_weight=1.0,
+                 ctrl_cost_weight=0.1,
+                 reset_noise_scale=0.1,
+                 exclude_current_positions_from_observation=True):
+        utils.EzPickle.__init__(**locals())
+
+        self._forward_reward_weight = forward_reward_weight
+
+        self._ctrl_cost_weight = ctrl_cost_weight
+
+        self._reset_noise_scale = reset_noise_scale
+
+        self._exclude_current_positions_from_observation = (
+            exclude_current_positions_from_observation)
+
+        mujoco_env.MujocoEnv.__init__(self, xml_file, 5)
+
+    def control_cost(self, action):
+        control_cost = self._ctrl_cost_weight * np.sum(np.square(action))
+        return control_cost
+
+    def step(self, action):
+        x_position_before = self.sim.data.qpos[0]
+        self.do_simulation(action, self.frame_skip)
+        x_position_after = self.sim.data.qpos[0]
+        x_velocity = ((x_position_after - x_position_before)
+                      / self.dt)
+
+        ctrl_cost = self.control_cost(action)
+
+        forward_reward = self._forward_reward_weight * x_velocity
+
+        observation = self._get_obs()
+        reward = forward_reward - ctrl_cost
+        done = False
+        info = {
+            'x_position': x_position_after,
+            'x_velocity': x_velocity,
+
+            'reward_run': forward_reward,
+            'reward_ctrl': -ctrl_cost
+        }
+
+        return observation, reward, done, info
+
+    def _get_obs(self):
+        position = self.sim.data.qpos.flat.copy()
+        velocity = self.sim.data.qvel.flat.copy()
+
+        if self._exclude_current_positions_from_observation:
+            position = position[1:]
+
+        observation = np.concatenate((position, velocity)).ravel()
+        return observation
+
+    def reset_model(self):
+        noise_low = -self._reset_noise_scale
+        noise_high = self._reset_noise_scale
+
+        qpos = self.init_qpos + self.np_random.uniform(
+            low=noise_low, high=noise_high, size=self.model.nq)
+        qvel = self.init_qvel + self._reset_noise_scale * self.np_random.randn(
+            self.model.nv)
+
+        self.set_state(qpos, qvel)
+
+        observation = self._get_obs()
+        return observation
+
+    def viewer_setup(self):
+        for key, value in DEFAULT_CAMERA_CONFIG.items():
+            if isinstance(value, np.ndarray):
+                getattr(self.viewer.cam, key)[:] = value
+            else:
+                setattr(self.viewer.cam, key, value)
+```
+
+

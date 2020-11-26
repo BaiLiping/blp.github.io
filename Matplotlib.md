@@ -3,7 +3,7 @@ layout: page
 title: Matlibplot
 ---
 
-'''
+```
 import matplotlib
 import matplotlib.pyplot as plt
 
@@ -37,7 +37,7 @@ ax.annotate('annotate', xy=(2, 1), xytext=(3, 4),
 ax.axis([0, 10, 0, 10])
 
 plt.show()
-'''
+```
 
 ![1](https://matplotlib.org/3.1.0/_images/sphx_glr_text_intro_001.png)
 

@@ -21,6 +21,7 @@ navbar-links:
     - EM: "EM"
   Computer Science:
     - Python: "Python"
+    - Matplotlib: "Matplotlib"
     - Linux: "Linux"
     - Docker: "Docker"
     - Cloud: "Cloud"

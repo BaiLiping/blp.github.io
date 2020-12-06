@@ -16,4 +16,5 @@ I think multileving thinking is required for striking a balance. Any logic/metho
 
 People debating which mode of decision making is the best, maybe they just have different pros and cons on different circumstances. The best approach would be having them all in the aseno and recognize when would be best to deploy them.
 
+3. *who are the ones that take on the risk?* Mervyn King wrote about his in his excellent books regarding radical uncertainty. The intent of financial system is to shift risks to those who can afford to bear them.  But turns out, those who bear the risks are those with least information. I've always felt this, those who do anything not because they know the risk profile and decided to take on the risks, yet, most likely it is because they have no idea what they are doing.
 

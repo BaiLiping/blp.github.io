@@ -1,13 +1,23 @@
 ---
 layout: post
 title: Di Dongsheng 
-subtitle: 
+subtitle: I really like the way he thinks
 tags: record
 image: 
 show-avatar: false
 social-share: false
 comments: true
 ---
+I actually took the time to look into his analysis in the past few days, not bad at all, and I actually like his logic very much.
+1. The difference between India and China in terms of economic development. Maybe in the end, it is about mindset. For instance during the cold war, India choose to not to involve themselves, China choose to engage with different parties at different times, and ended up with Nuclear capacity. Now India belive in self-sufficient, which is only possible in an argricultural economy. In Industrial economy or even in later knowledge based economy, the ability to handle debt is a essential one. This is basically a mindset shift for the new economical states. In agricultural society, yes, self-suffcient and complete independent is possible. But in a more advanced economical state, new mindsets are required. 
+2. An economy is the matching of demand and supply. Which one is more important? From the demographical stand point, it might be the demand side that is more important going forward. 
+3. His suggestion on how to handle the international travel situation during covid. Make Hainan the quarantien zone. It probably takes way too much coordination to be able to pull it off, but actually not a bad idea.
+4. Why the ecnonomy of north is in such a decline? After the WTO thingy, most of the economic development comes from the export led model. It is just easier for the coastal cities to handle the exports. The entire country at that point is actually geared towards export led economy. In particular the fix exchange rate scheme, where money is printed in large quantities in order to purchase or sell RMB to maintain the exchange rate peg. This is of course good for the export sector since the extreme devaluation of RMB means excessive money is printed and eventually they manifest themselves as inflations in the domestics economy. Most people would just migrate to the coastal cities. He suggested that in order to revive the ecnonmy of the north, they need to take advantage of the global warming and a potential for the North route for global shipment. This is actually excellent advice and if they really want to act on it, it is time to prepare for this move now.
+5. I really like his analysis on the exchange rate. Right now, the current account are used to purchase capital product such as T bill and high tech stuff such as chips, airplanes. Imagine one day we actually are capable of producing all those product ourselves. Then the outflow of current account would be dramatically reduced, which means USD is less valuable compare to RMB, this would inevitably lead to the rise of RMB and hurt export sector. 
+6. The export led industry has run out of steam and now it is time to be transfered into the innovation lead economy. What would be the most important skillsets when it comes this newest form of economy that we are stepping into? If I am a worker in the export led economy, what is required is being industrious and ability to pick up a skill. If i am a manager in the industrial ecnonmy, what is expected of me is how to cooperate with various sectors of the society, ability to handle the risks, interact with the financial market in terms of raising capital, and probably the ability to make judgement call as of how the society is evolving. What about the innovative economy? I think probably the most crutial skillset is the ability to decompse a problem and the ability to approach things systematically. 
+
+The personalities are probably also different for those economies. Actually one of my new year resolution is the ability to approach things in a softer manner. The ability to compete is absolutely essential for the first two economies, but maybe less so in the last one. The ability to communicate and cooperate would be the center piece.
+
 看空人民币的五大常见逻辑
 
 1、“中国经济减速将导致汇率贬值。”

@@ -1,20 +1,29 @@
 ---
 layout: post
-title: Di Dongsheng 
+title: Di Dongsheng
 subtitle: I really like the way he thinks
 tags: record
-image: 
+image:
 show-avatar: false
 social-share: false
 comments: true
 ---
 I actually took the time to look into his analysis in the past few days, not bad at all, and I actually like his logic very much.
-1. The difference between India and China in terms of economic development. Maybe in the end, it is about mindset. For instance during the cold war, India choose to not to involve themselves, China choose to engage with different parties at different times, and ended up with Nuclear capacity. Now India belive in self-sufficient, which is only possible in an argricultural economy. In Industrial economy or even in later knowledge based economy, the ability to handle debt is a essential one. This is basically a mindset shift for the new economical states. In agricultural society, yes, self-suffcient and complete independent is possible. But in a more advanced economical state, new mindsets are required. 
-2. An economy is the matching of demand and supply. Which one is more important? From the demographical stand point, it might be the demand side that is more important going forward. 
+
+对黑石投资并没有带来多少直接损失,但是其间接损失却是非常巨大的。2008~2009年的金融危机导致大量资产价格暴跌,市场上流动性稀缺。此时如果中国政府在全球金融市场上出手买入各类股权,必定名利双收,其背后的逻辑是“用流动性换利润”,股神巴菲特的投资逻辑名为“价值投资”,但是他真正的利润来源主要是在市场普遍缺钱的时候“卖出流动性”(sell liquidity)。但是非常遗憾的是,中投公司在这该出手时没有出手,错失良机的原因恰恰在于此前冲动型的投资套牢在黑石等股票上,招致巨大的舆论和政治压力,使得他们不敢再去冒必要的风险。
+
+
+而人民币国际化的前提是资本项目下放开管制,由此伴生的现象是人民币的波动幅度、汇率水平都出现不利于中国低端制造业的变动,结果是一部分低端制造业的破产和对外转移,那么必然会导致一部分资本的流出和贸易盈余的减少。假如中国在高端制造业或者服务业出口的增长能弥补由此
+而导致的资本流失和贸易盈余减少,那么中国经济和人民币汇率都没有大问题。但是假如出现了20世纪90年代中期东南亚小国的局面,那就是低端的流走了,高端的没起来,游资仍在惯性流入炒作国内投机性资产(房产与股市),那么实体经济与虚拟经济之间就会形成背离,用不了两三年就会出现金融或者货币方面的大动荡。
+
+截至2019年春季,美国企业积累了11万亿美元的企业债,其中8万亿美元投资级债券,1.5万亿美元垃圾级债券,1.5万亿美元企业银行债。美国这两年加息对他们暂时没有啥影响,因为债券得过两年才能到期。但问题在于,2021年前后很大一批企业债券需要集中兑付,而如今美国的利率已经涨上来了,这些企业借新债还旧债的资金成本将大大提高,11万亿美元企业债里边,有朋友认为美国垃圾债的份额将从1.5万亿美元飚到6万亿美元。从历史上看,类似情景下,美联储需要减息5个百分点左右才能对冲经济下行风险,这次难道要把基准利率降到负3%?这样的话美元指数得跌到多少才能止步?这样一场完美风暴已经在酝酿之中,对美国中部的传统经济和美国金融市场的冲击将是巨大的,中国政府和个人在美元资产所配置的巨额资产将面临巨大损失可能。
+
+1. The difference between India and China in terms of economic development. Maybe in the end, it is about mindset. For instance during the cold war, India choose to not to involve themselves, China choose to engage with different parties at different times, and ended up with Nuclear capacity. Now India belive in self-sufficient, which is only possible in an argricultural economy. In Industrial economy or even in later knowledge based economy, the ability to handle debt is a essential one. This is basically a mindset shift for the new economical states. In agricultural society, yes, self-suffcient and complete independent is possible. But in a more advanced economical state, new mindsets are required.
+2. An economy is the matching of demand and supply. Which one is more important? From the demographical stand point, it might be the demand side that is more important going forward.
 3. His suggestion on how to handle the international travel situation during covid. Make Hainan the quarantien zone. It probably takes way too much coordination to be able to pull it off, but actually not a bad idea.
 4. Why the ecnonomy of north is in such a decline? After the WTO thingy, most of the economic development comes from the export led model. It is just easier for the coastal cities to handle the exports. The entire country at that point is actually geared towards export led economy. In particular the fix exchange rate scheme, where money is printed in large quantities in order to purchase or sell RMB to maintain the exchange rate peg. This is of course good for the export sector since the extreme devaluation of RMB means excessive money is printed and eventually they manifest themselves as inflations in the domestics economy. Most people would just migrate to the coastal cities. He suggested that in order to revive the ecnonmy of the north, they need to take advantage of the global warming and a potential for the North route for global shipment. This is actually excellent advice and if they really want to act on it, it is time to prepare for this move now.
-5. I really like his analysis on the exchange rate. Right now, the current account are used to purchase capital product such as T bill and high tech stuff such as chips, airplanes. Imagine one day we actually are capable of producing all those product ourselves. Then the outflow of current account would be dramatically reduced, which means USD is less valuable compare to RMB, this would inevitably lead to the rise of RMB and hurt export sector. 
-6. The export led industry has run out of steam and now it is time to be transfered into the innovation lead economy. What would be the most important skillsets when it comes this newest form of economy that we are stepping into? If I am a worker in the export led economy, what is required is being industrious and ability to pick up a skill. If i am a manager in the industrial ecnonmy, what is expected of me is how to cooperate with various sectors of the society, ability to handle the risks, interact with the financial market in terms of raising capital, and probably the ability to make judgement call as of how the society is evolving. What about the innovative economy? I think probably the most crutial skillset is the ability to decompse a problem and the ability to approach things systematically. 
+5. I really like his analysis on the exchange rate. Right now, the current account are used to purchase capital product such as T bill and high tech stuff such as chips, airplanes. Imagine one day we actually are capable of producing all those product ourselves. Then the outflow of current account would be dramatically reduced, which means USD is less valuable compare to RMB, this would inevitably lead to the rise of RMB and hurt export sector.
+6. The export led industry has run out of steam and now it is time to be transfered into the innovation lead economy. What would be the most important skillsets when it comes this newest form of economy that we are stepping into? If I am a worker in the export led economy, what is required is being industrious and ability to pick up a skill. If i am a manager in the industrial ecnonmy, what is expected of me is how to cooperate with various sectors of the society, ability to handle the risks, interact with the financial market in terms of raising capital, and probably the ability to make judgement call as of how the society is evolving. What about the innovative economy? I think probably the most crutial skillset is the ability to decompse a problem and the ability to approach things systematically.
 
 The personalities are probably also different for those economies. Actually one of my new year resolution is the ability to approach things in a softer manner. The ability to compete is absolutely essential for the first two economies, but maybe less so in the last one. The ability to communicate and cooperate would be the center piece.
 
@@ -176,4 +185,3 @@ The personalities are probably also different for those economies. Actually one 
 翟东升：你问的是个非常好的学术问题。我的书把60年代左翼理论家的“中心外围关系”进一步深化了，其中中心分化成正常的发达国家（如日本、欧洲、韩国）和非正常的美国（它从正常的发达国家变成了逆差国）。外围国家绝大部分还是靠卖自然资源，但有部分国家实现了工业化。这个结构在我的书里称为新的中心外围结构，由中心向外围，总体的曲线是国债收益率曲线。把横轴换成时间，远端风险大，短端隔夜拆借利率变小。你刚才问到的十年期国债率，隔夜拆借到十年期、三十年期，十年期远端国债率的波动代表对整个全球金融市场对风险的定价，当它上升时表明经济繁荣，下跌时表明经济相对萧条。
 
 另外一个利率，联储可以控制的短端利率，往上加就会扁平化，往下减就变成陡峭。而全球宏观对冲的根本逻辑就是结构性，在时间和空间上，美元信用体系由于种种原因一会儿拥抱风险，一会儿逃避风险，形成的曲线形状、高低会有陡峭和扁平之分。所以，它当然对汇率具有结构性、根本性的影响。
-
